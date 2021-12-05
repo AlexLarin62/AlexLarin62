@@ -42,7 +42,7 @@ Common:
 
 ## 🌱 I’m currently learning:
 
-[![Vue](https://img.shields.io/badge/vue-vue-blue)](https://www.typescriptlang.org/)
+[![Vue](https://img.shields.io/badge/-Vue-f9fbfa?logo=Vue&style=for-the-badge)](https://vuejs.org/)
 
 
 
